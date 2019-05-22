@@ -1,0 +1,39 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+    background-color: white;
+  width: 1406px;
+  border: 9px solid white;
+  padding: 1px;
+  margin: 0px;
+  
+  }
+  li {
+    float: right;
+  }
+  li a {
+    display: block;
+    color: rgb(131, 126, 126);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a: {
+    background-color: #111;}
+    body {background-color:lightgrey}
+
+    section { color: #4aaaa5;
+        text-align: center;
+        font-size: 30px;
+        margin: 0;}
+div class="boxed"{
+padding: 0;
+background-color: white;
+width: 960px;
+padding: 1px;
+margin: 0px;
+boxalign: center;}
