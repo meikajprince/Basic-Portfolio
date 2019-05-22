@@ -36,6 +36,10 @@ ul {
             width: 960px;
             border: 0px solid white;
             margin: 0 auto;
-        
-            background-color: pink;
-            text-align: left;}
+            background-color: white;
+            text-align: left;
+            height: 300px;}
+            
+            .yourname {
+                padding-bottom: 0px}
+    
