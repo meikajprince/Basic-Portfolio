@@ -30,10 +30,11 @@ ul {
         text-align: center;
         font-size: 30px;
         margin: 0;}
-div class="boxed"{
-padding: 0;
-background-color: white;
-width: 960px;
-padding: 1px;
-margin: 0px;
-boxalign: center;}
+
+        div {background-color: rgb(214, 25, 25);
+            text-align: center;
+            width: 800;
+            height: 900;
+
+
+        }
