@@ -1,0 +1,10 @@
+body {background-color: lightgrey;
+text-align: left;}
+
+.boxshit
+{width: 960px;
+    border: 0px solid white;
+    margin: 0 auto;
+    background-color: white;
+    text-align: left;
+    height: 400px;}
