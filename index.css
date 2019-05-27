@@ -5,7 +5,7 @@ ul {
     overflow: hidden;
     background-color:white;
     background-color: white;
-  width: 1406px;
+  width: 100%;
   border: 9px solid white;
   padding: 1px;
   margin: 0px;}
@@ -46,11 +46,13 @@ div {
             height: 2575px;}
             
 .container {
-              position: relative;
+              float: left;
               background-color: #4aaaa5;
               top: 20px;
-                left: -367px;
-                text-align: center;
-                width: 9}
+              left: 30px;
+              text-align: center;
+              width: 10;
+              height: 12; }
+
 
     
