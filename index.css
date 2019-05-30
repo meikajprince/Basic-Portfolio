@@ -5,7 +5,7 @@ ul {
     overflow: hidden;
     background-color:white;
     background-color: white;
-  width: 100%;
+  
   border: 9px solid white;
   padding: 1px;
   margin: 0px;}
@@ -45,7 +45,7 @@ div {
             text-align: left;
             height: 2575px;}
             
-.container {
+.logo {
               float: left;
               background-color: #4aaaa5;
               top: 20px;
@@ -53,6 +53,9 @@ div {
               text-align: center;
               width: 10;
               height: 12; }
+.container2{
+  width: 960px;
+  margin:0 auto;
+}
 
-
-    
+    #header{background: white;}

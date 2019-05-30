@@ -9,14 +9,31 @@ text-align: left;}
     text-align: left;
     height: 800px;}
 
-    .imageplaceholder {text-align:left;}
+    .imageplaceholder {
+        float: left;
+        text-align: left;
+    padding: 20px;}
 
-    .imageplaceholder2 {text-align:right;}
+    .imageplaceholder2 {float: left;
+        text-align:right;
+        padding: 20px;}
 
-    .imageplaceholder3 {text-align: left;}
+    .imageplaceholder3 {float: left;
+        text-align:right;
+        padding: 20px;}
 
-    .imageplaceholder4 {text-align: right;}
+    .imageplaceholder4 {float: left;
+        text-align:right;
+        padding: 20px;}
 
-    .imageplaceholder5 {text-align: left;}
+    .imageplaceholder5 {float: left;
+        text-align:right;
+        padding: 20px;}
 
-    .imageplaceholder6 {text-align: right;}
+    .imageplaceholder6 {float: left;
+        text-align:right;
+        padding: 20px;}
+        .row div {
+            width: 50%;
+            display: inline;
+        }
